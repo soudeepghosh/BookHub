@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="about">About</string>
+    <string name="navigation_drawer">\tBookHub</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="favourites_fragment">Favourites Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="about_fragment">Hello guys! This is the first version of BookHub(v1.0.0). This app displays the list of popular books. You can see the full description of each book. You can also add a book to favourites.You can also see the book author name, price and rating. \n You can share your valuable feedback or suggestions via email.
+    </string>
+
+</resources>
